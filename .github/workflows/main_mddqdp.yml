@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'mddqdp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9388EFC417F470592DBB68F86911BBA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3F2878EF42894FADBCC97005CCC0A54F }}
